@@ -163,19 +163,19 @@ Power BI
 
 # Project Structure
 
-data/
+Data/
 Raw datasets generated for the analysis
 
-notebooks/
+Notebooks/
 Python notebooks for cleaning, EDA, and KPI calculations
 
-sql/
+SQL/
 SQL queries used for analysis
 
-dashboard/
+Power-BI-Dashboard/
 Power BI dashboard file
 
-generate_data.py
+Data_Script.py
 Script used to generate the dataset
 
 ---
