@@ -1,0 +1,501 @@
+customer_id,country,segment,signup_date
+1,Spain,Small Business,2023-11-26
+2,Italy,Consumer,2024-05-22
+3,France,Consumer,2023-03-10
+4,Spain,Small Business,2024-06-29
+5,Spain,Consumer,2023-02-22
+6,Italy,Small Business,2024-03-25
+7,France,Corporate,2023-07-24
+8,France,Consumer,2023-05-06
+9,Spain,Corporate,2023-02-12
+10,Germany,Small Business,2023-04-21
+11,Spain,Corporate,2024-10-24
+12,Spain,Corporate,2023-07-02
+13,Spain,Small Business,2023-04-05
+14,Spain,Corporate,2024-01-09
+15,Italy,Corporate,2024-06-03
+16,France,Small Business,2023-12-26
+17,Italy,Corporate,2024-11-26
+18,Italy,Small Business,2023-10-08
+19,Italy,Corporate,2023-07-14
+20,Spain,Small Business,2023-07-14
+21,Germany,Small Business,2024-10-28
+22,France,Corporate,2023-04-03
+23,Germany,Corporate,2024-11-02
+24,Italy,Corporate,2023-03-02
+25,Italy,Consumer,2024-09-25
+26,Germany,Consumer,2023-02-20
+27,Germany,Consumer,2024-02-07
+28,Germany,Small Business,2023-01-05
+29,Italy,Corporate,2024-04-10
+30,Italy,Small Business,2024-08-26
+31,France,Consumer,2024-11-12
+32,France,Corporate,2024-06-17
+33,Italy,Small Business,2024-02-09
+34,Germany,Corporate,2024-05-27
+35,Germany,Small Business,2024-10-06
+36,France,Corporate,2023-08-21
+37,Italy,Consumer,2024-06-07
+38,France,Consumer,2023-12-12
+39,France,Corporate,2023-02-15
+40,Spain,Small Business,2024-06-29
+41,Spain,Consumer,2023-03-19
+42,Spain,Consumer,2023-03-14
+43,Germany,Consumer,2023-09-06
+44,Italy,Corporate,2023-02-16
+45,Italy,Corporate,2023-05-01
+46,,Small Business,2023-08-02
+47,Italy,Small Business,2023-08-27
+48,Spain,Small Business,2023-02-25
+49,Germany,Corporate,2023-12-16
+50,Germany,Corporate,2023-04-17
+51,Spain,Small Business,2023-02-17
+52,Germany,Small Business,2024-07-26
+53,Spain,Corporate,2023-12-03
+54,Italy,Small Business,2023-01-26
+55,Spain,Consumer,2023-09-14
+56,Italy,Corporate,2023-01-08
+57,Italy,Small Business,2024-09-16
+58,France,Corporate,2023-09-10
+59,Spain,Consumer,2024-11-22
+60,France,Corporate,2023-10-30
+61,Spain,Corporate,2024-09-30
+62,Spain,Corporate,2023-02-25
+63,France,Corporate,2024-06-09
+64,,Consumer,2024-04-18
+65,Spain,Corporate,2023-01-28
+66,Germany,Corporate,2023-03-19
+67,Italy,Small Business,2023-08-04
+68,France,Corporate,2024-01-21
+69,Italy,Small Business,2023-12-31
+70,Germany,Consumer,2024-10-27
+71,Germany,Consumer,2024-06-09
+72,Germany,Consumer,2024-11-29
+73,France,Consumer,2023-11-08
+74,Germany,Small Business,2023-01-07
+75,France,Corporate,2023-01-03
+76,Germany,Consumer,2024-09-14
+77,Italy,Corporate,2023-12-29
+78,Italy,Small Business,2024-05-22
+79,Spain,Small Business,2023-10-01
+80,Italy,Small Business,2024-05-20
+81,Spain,Consumer,2023-01-15
+82,Italy,Corporate,2023-07-11
+83,France,Corporate,2024-09-22
+84,Italy,Corporate,2024-04-29
+85,Spain,Small Business,2023-01-28
+86,Spain,Consumer,2023-02-08
+87,Germany,Small Business,2023-09-30
+88,France,Small Business,2023-08-19
+89,Italy,Corporate,2023-03-27
+90,Germany,Small Business,2024-04-18
+91,Italy,Corporate,2023-05-06
+92,Italy,Consumer,2024-06-20
+93,Germany,Corporate,2023-05-25
+94,Germany,Consumer,2024-06-08
+95,Germany,Corporate,2023-07-31
+96,Germany,Small Business,2023-01-25
+97,Germany,Small Business,2024-08-02
+98,,Consumer,2024-01-29
+99,Germany,Consumer,2023-03-08
+100,France,Consumer,2023-08-21
+101,Spain,Corporate,2023-04-19
+102,Germany,Corporate,2023-05-26
+103,Germany,Consumer,2023-04-21
+104,Italy,Small Business,2023-08-16
+105,Germany,Corporate,2023-04-21
+106,Germany,Corporate,2024-04-14
+107,Germany,Corporate,2023-02-03
+108,Italy,Consumer,2024-09-14
+109,Germany,Consumer,2024-01-04
+110,Spain,Consumer,2024-08-17
+111,Italy,Consumer,2024-07-07
+112,Spain,Consumer,2024-02-29
+113,Italy,Small Business,2024-09-04
+114,Germany,Small Business,2024-06-01
+115,Spain,Consumer,2024-11-22
+116,Italy,Corporate,2023-10-09
+117,France,Consumer,2023-11-16
+118,Germany,Small Business,2024-03-18
+119,Italy,Small Business,2023-11-11
+120,France,Corporate,2024-01-12
+121,Italy,Small Business,2023-10-16
+122,,Consumer,2024-03-12
+123,Germany,Corporate,2024-10-23
+124,Spain,Consumer,2023-10-04
+125,France,Consumer,2024-08-04
+126,Italy,Corporate,2024-05-17
+127,Germany,Consumer,2024-09-15
+128,France,Small Business,2024-05-30
+129,Italy,Consumer,2023-12-16
+130,,Corporate,2024-03-21
+131,Italy,Corporate,2023-12-16
+132,France,Corporate,2024-08-29
+133,France,Consumer,2024-10-25
+134,France,Corporate,2023-05-17
+135,Spain,Corporate,2023-08-31
+136,France,Consumer,2024-06-26
+137,France,Small Business,2023-02-09
+138,France,Consumer,2023-08-17
+139,Spain,Corporate,2024-07-01
+140,France,Corporate,2023-08-11
+141,Italy,Consumer,2023-01-06
+142,France,Small Business,2023-11-18
+143,Italy,Corporate,2024-04-12
+144,Italy,Corporate,2023-03-16
+145,Italy,Corporate,2023-01-04
+146,Spain,Consumer,2024-10-07
+147,Spain,Corporate,2023-04-28
+148,Spain,Small Business,2024-08-28
+149,France,Corporate,2024-05-18
+150,Italy,Corporate,2024-07-27
+151,Spain,Small Business,2024-03-16
+152,Spain,Corporate,2023-07-13
+153,France,Consumer,2024-01-27
+154,Spain,Consumer,2023-01-26
+155,France,Consumer,2024-03-10
+156,Germany,Small Business,2023-06-22
+157,Spain,Corporate,2023-10-27
+158,Germany,Consumer,2024-10-06
+159,France,Small Business,2023-11-22
+160,Italy,Corporate,2024-02-14
+161,Spain,Small Business,2023-04-28
+162,France,Consumer,2023-08-13
+163,Italy,Consumer,2024-06-15
+164,Italy,Consumer,2023-04-23
+165,Germany,Small Business,2023-05-20
+166,France,Small Business,2024-07-12
+167,Italy,Consumer,2023-01-01
+168,,Small Business,2023-03-31
+169,Spain,Consumer,2024-10-15
+170,Germany,Consumer,2023-11-16
+171,Italy,Corporate,2024-07-03
+172,France,Small Business,2023-05-19
+173,,Consumer,2024-05-25
+174,Italy,Consumer,2023-09-16
+175,Italy,Small Business,2024-11-03
+176,Germany,Corporate,2024-11-20
+177,Spain,Corporate,2023-01-10
+178,Spain,Consumer,2023-09-18
+179,France,Small Business,2024-10-11
+180,Spain,Corporate,2023-06-21
+181,France,Small Business,2023-01-13
+182,Spain,Small Business,2023-06-17
+183,Germany,Consumer,2024-10-03
+184,Spain,Corporate,2024-08-18
+185,France,Consumer,2023-11-17
+186,France,Corporate,2023-11-15
+187,Germany,Corporate,2024-09-04
+188,Spain,Corporate,2023-11-25
+189,Spain,Corporate,2024-07-03
+190,,Corporate,2024-02-23
+191,Spain,Small Business,2024-08-28
+192,Spain,Consumer,2023-04-05
+193,France,Small Business,2024-08-03
+194,Spain,Corporate,2023-11-14
+195,Spain,Consumer,2023-08-24
+196,Germany,Corporate,2023-11-30
+197,Germany,Consumer,2024-01-11
+198,Italy,Small Business,2024-04-03
+199,France,Consumer,2023-05-17
+200,Spain,Consumer,2024-08-10
+201,Spain,Consumer,2024-06-30
+202,Italy,Consumer,2024-05-27
+203,Spain,Consumer,2023-10-23
+204,France,Corporate,2023-11-16
+205,Italy,Consumer,2024-07-25
+206,France,Consumer,2023-12-15
+207,Italy,Small Business,2023-08-17
+208,Italy,Consumer,2023-09-27
+209,Germany,Small Business,2023-10-18
+210,France,Corporate,2023-06-14
+211,Spain,Consumer,2023-01-05
+212,Spain,Small Business,2024-01-14
+213,France,Small Business,2023-03-19
+214,Spain,Corporate,2024-02-14
+215,Spain,Consumer,2024-07-27
+216,France,Consumer,2023-05-12
+217,Italy,Small Business,2024-08-23
+218,France,Consumer,2023-02-11
+219,,Small Business,2023-03-30
+220,Spain,Consumer,2024-02-06
+221,Spain,Small Business,2023-10-23
+222,Spain,Consumer,2023-10-22
+223,Germany,Corporate,2024-09-07
+224,Italy,Consumer,2024-06-09
+225,Germany,Consumer,2024-11-21
+226,Germany,Corporate,2024-09-28
+227,France,Consumer,2024-02-26
+228,Germany,Corporate,2023-01-23
+229,France,Consumer,2024-07-28
+230,France,Small Business,2023-05-23
+231,Germany,Small Business,2024-10-26
+232,Italy,Consumer,2023-05-25
+233,Italy,Consumer,2023-08-13
+234,Italy,Consumer,2024-05-17
+235,Italy,Small Business,2024-09-07
+236,Italy,Consumer,2023-04-14
+237,,Small Business,2023-02-08
+238,Germany,Corporate,2023-07-17
+239,Spain,Small Business,2024-10-07
+240,Italy,Small Business,2024-08-01
+241,Germany,Corporate,2024-01-26
+242,Spain,Small Business,2023-06-28
+243,Italy,Consumer,2024-07-07
+244,France,Consumer,2024-03-23
+245,Spain,Small Business,2024-05-14
+246,Germany,Consumer,2023-01-15
+247,France,Small Business,2024-09-14
+248,France,Consumer,2024-10-30
+249,France,Consumer,2023-10-16
+250,Spain,Small Business,2024-04-22
+251,Germany,Consumer,2023-08-19
+252,France,Small Business,2024-02-24
+253,Italy,Consumer,2023-06-06
+254,France,Consumer,2024-07-03
+255,France,Corporate,2024-03-16
+256,Spain,Corporate,2023-04-07
+257,Spain,Small Business,2024-02-15
+258,Germany,Corporate,2023-10-16
+259,Italy,Small Business,2023-09-11
+260,Spain,Corporate,2023-07-15
+261,France,Consumer,2024-08-20
+262,Germany,Small Business,2024-06-05
+263,France,Small Business,2024-05-31
+264,France,Consumer,2024-09-26
+265,Spain,Small Business,2023-04-28
+266,Germany,Small Business,2023-06-08
+267,Italy,Corporate,2023-08-16
+268,,Small Business,2023-08-04
+269,Spain,Consumer,2024-11-26
+270,Spain,Corporate,2023-01-15
+271,Germany,Corporate,2023-06-06
+272,Italy,Consumer,2024-10-09
+273,Italy,Consumer,2023-09-18
+274,Italy,Corporate,2023-06-06
+275,France,Small Business,2023-02-16
+276,Italy,Corporate,2023-11-20
+277,France,Consumer,2024-11-15
+278,Germany,Corporate,2023-05-10
+279,France,Consumer,2024-02-15
+280,Germany,Corporate,2023-04-05
+281,Italy,Small Business,2024-09-18
+282,Italy,Corporate,2023-10-19
+283,Germany,Corporate,2023-10-10
+284,Spain,Consumer,2023-03-10
+285,Germany,Consumer,2024-10-21
+286,Spain,Consumer,2023-01-11
+287,France,Corporate,2023-09-11
+288,France,Small Business,2024-07-03
+289,France,Consumer,2023-05-14
+290,Italy,Consumer,2023-01-23
+291,France,Corporate,2023-12-12
+292,Spain,Consumer,2023-10-29
+293,France,Small Business,2023-12-29
+294,Germany,Small Business,2024-01-31
+295,Germany,Consumer,2023-08-06
+296,Italy,Consumer,2023-05-21
+297,Germany,Corporate,2024-09-07
+298,Spain,Small Business,2023-07-29
+299,France,Small Business,2024-09-14
+300,Italy,Consumer,2024-09-07
+301,France,Corporate,2024-11-13
+302,France,Small Business,2024-04-04
+303,Spain,Small Business,2023-12-22
+304,Germany,Corporate,2023-11-20
+305,Germany,Corporate,2023-05-13
+306,France,Small Business,2023-05-07
+307,Italy,Small Business,2023-04-16
+308,Germany,Corporate,2024-08-26
+309,,Small Business,2024-01-13
+310,,Consumer,2023-02-20
+311,Italy,Consumer,2023-01-29
+312,Spain,Corporate,2024-04-06
+313,Italy,Corporate,2023-10-23
+314,Spain,Corporate,2023-10-24
+315,Spain,Consumer,2024-02-11
+316,Italy,Small Business,2024-09-04
+317,Spain,Consumer,2024-02-09
+318,France,Small Business,2023-12-12
+319,Spain,Consumer,2024-09-13
+320,Germany,Small Business,2024-02-24
+321,Italy,Consumer,2023-07-01
+322,France,Corporate,2023-01-01
+323,Italy,Consumer,2024-07-20
+324,Germany,Small Business,2024-01-06
+325,Germany,Consumer,2024-10-22
+326,Germany,Consumer,2024-03-06
+327,Spain,Consumer,2023-11-05
+328,Spain,Corporate,2023-05-17
+329,Italy,Consumer,2023-07-21
+330,Italy,Corporate,2024-03-11
+331,France,Corporate,2023-11-09
+332,France,Consumer,2023-04-27
+333,Italy,Consumer,2024-10-27
+334,Spain,Consumer,2024-07-28
+335,Germany,Small Business,2023-09-01
+336,Italy,Consumer,2024-06-20
+337,France,Corporate,2024-08-24
+338,Spain,Consumer,2023-03-16
+339,Italy,Small Business,2024-01-21
+340,Italy,Consumer,2023-07-29
+341,Spain,Small Business,2024-04-19
+342,Italy,Small Business,2024-02-22
+343,Spain,Consumer,2023-12-13
+344,Germany,Corporate,2024-06-12
+345,Spain,Small Business,2024-10-01
+346,Spain,Consumer,2023-06-28
+347,Spain,Consumer,2023-07-01
+348,Italy,Corporate,2024-10-25
+349,Italy,Small Business,2023-01-25
+350,Spain,Small Business,2023-06-29
+351,Italy,Consumer,2024-05-15
+352,France,Consumer,2023-06-10
+353,France,Corporate,2023-06-26
+354,Italy,Corporate,2023-10-12
+355,Italy,Small Business,2023-03-04
+356,Spain,Small Business,2024-10-23
+357,Germany,Consumer,2024-10-27
+358,Italy,Small Business,2023-06-05
+359,France,Corporate,2024-04-13
+360,Spain,Corporate,2023-02-18
+361,Italy,Consumer,2023-03-25
+362,France,Corporate,2023-12-27
+363,,Corporate,2024-11-19
+364,Germany,Corporate,2023-05-28
+365,Spain,Corporate,2024-09-21
+366,Spain,Consumer,2023-12-08
+367,Germany,Consumer,2024-04-20
+368,Germany,Small Business,2023-03-04
+369,Spain,Corporate,2023-12-26
+370,Spain,Small Business,2024-07-14
+371,Italy,Consumer,2023-11-23
+372,Italy,Consumer,2023-05-21
+373,Germany,Consumer,2023-08-03
+374,Italy,Consumer,2024-03-10
+375,France,Consumer,2023-11-14
+376,Italy,Consumer,2023-02-01
+377,Italy,Consumer,2024-10-31
+378,France,Corporate,2023-10-12
+379,Germany,Small Business,2023-11-01
+380,France,Consumer,2024-03-04
+381,Italy,Corporate,2024-04-21
+382,Germany,Corporate,2023-10-13
+383,Italy,Small Business,2023-05-24
+384,France,Consumer,2024-02-28
+385,France,Small Business,2023-01-19
+386,Italy,Consumer,2023-01-18
+387,Spain,Corporate,2024-08-12
+388,Spain,Corporate,2024-01-06
+389,France,Corporate,2023-06-24
+390,France,Corporate,2023-07-13
+391,Spain,Small Business,2024-05-16
+392,Spain,Consumer,2023-04-23
+393,Italy,Consumer,2023-04-24
+394,,Small Business,2023-08-10
+395,Spain,Consumer,2024-11-08
+396,Italy,Corporate,2024-10-05
+397,Italy,Consumer,2023-09-21
+398,Germany,Corporate,2023-02-24
+399,Italy,Small Business,2024-10-04
+400,France,Consumer,2024-04-02
+401,,Small Business,2023-06-11
+402,Italy,Consumer,2024-01-15
+403,Spain,Corporate,2023-03-28
+404,France,Small Business,2023-02-24
+405,Italy,Consumer,2024-04-20
+406,Italy,Corporate,2023-06-27
+407,Germany,Small Business,2024-01-26
+408,Italy,Small Business,2023-12-15
+409,Italy,Consumer,2023-01-08
+410,,Consumer,2023-11-09
+411,Spain,Consumer,2024-03-18
+412,Italy,Corporate,2023-11-24
+413,Germany,Consumer,2023-02-23
+414,France,Small Business,2023-08-27
+415,Spain,Small Business,2023-08-17
+416,France,Consumer,2024-08-01
+417,France,Consumer,2023-02-20
+418,Germany,Small Business,2024-08-31
+419,Italy,Corporate,2024-08-26
+420,Germany,Consumer,2023-09-21
+421,Germany,Consumer,2024-02-22
+422,Germany,Small Business,2023-04-06
+423,Germany,Consumer,2023-03-29
+424,Spain,Corporate,2023-03-19
+425,Italy,Small Business,2023-10-15
+426,France,Consumer,2023-04-30
+427,France,Small Business,2024-05-05
+428,Italy,Consumer,2024-03-27
+429,France,Consumer,2024-05-14
+430,Italy,Consumer,2023-06-14
+431,France,Corporate,2023-07-01
+432,Germany,Corporate,2024-04-13
+433,France,Small Business,2023-01-07
+434,Italy,Consumer,2023-11-26
+435,Italy,Consumer,2024-11-03
+436,Italy,Corporate,2023-05-31
+437,Italy,Consumer,2023-03-26
+438,Italy,Corporate,2023-05-27
+439,Spain,Consumer,2024-09-15
+440,Spain,Small Business,2024-01-16
+441,France,Consumer,2024-07-01
+442,Italy,Consumer,2023-10-12
+443,France,Corporate,2024-11-30
+444,Italy,Consumer,2023-03-23
+445,Italy,Consumer,2024-05-28
+446,Spain,Corporate,2024-06-06
+447,Spain,Small Business,2024-01-21
+448,Germany,Small Business,2024-04-15
+449,Spain,Corporate,2023-04-29
+450,Germany,Corporate,2024-01-31
+451,Germany,Corporate,2024-06-15
+452,Germany,Corporate,2023-09-18
+453,Germany,Corporate,2023-09-13
+454,Germany,Small Business,2023-08-14
+455,,Small Business,2023-02-22
+456,Spain,Corporate,2024-05-14
+457,Germany,Consumer,2024-05-20
+458,Italy,Corporate,2023-12-30
+459,Spain,Consumer,2023-10-07
+460,Spain,Corporate,2024-08-15
+461,Germany,Corporate,2023-06-07
+462,France,Small Business,2024-09-23
+463,Germany,Consumer,2023-02-28
+464,France,Consumer,2023-05-08
+465,Italy,Small Business,2023-04-25
+466,Spain,Small Business,2023-07-28
+467,Italy,Small Business,2024-06-09
+468,France,Small Business,2024-06-04
+469,,Consumer,2024-07-05
+470,Italy,Consumer,2023-08-25
+471,France,Corporate,2023-10-08
+472,Italy,Corporate,2023-12-25
+473,Spain,Small Business,2023-07-20
+474,Italy,Small Business,2023-10-05
+475,Spain,Small Business,2023-08-23
+476,,Corporate,2024-05-08
+477,France,Corporate,2023-01-04
+478,Italy,Corporate,2024-10-27
+479,France,Corporate,2024-03-17
+480,Italy,Corporate,2023-01-29
+481,Italy,Corporate,2023-04-19
+482,Germany,Corporate,2024-09-01
+483,France,Small Business,2023-03-16
+484,Germany,Small Business,2023-05-26
+485,France,Small Business,2023-05-08
+486,Germany,Small Business,2023-02-11
+487,Spain,Corporate,2023-12-22
+488,Italy,Consumer,2023-02-10
+489,France,Corporate,2023-02-03
+490,France,Consumer,2023-01-17
+491,Italy,Small Business,2024-11-07
+492,France,Corporate,2023-06-02
+493,France,Small Business,2024-01-13
+494,Germany,Corporate,2024-08-10
+495,France,Small Business,2024-08-21
+496,Spain,Consumer,2024-09-20
+497,Spain,Consumer,2023-12-08
+498,Italy,Consumer,2023-01-27
+499,France,Corporate,2023-10-14
+500,Italy,Consumer,2024-10-07
