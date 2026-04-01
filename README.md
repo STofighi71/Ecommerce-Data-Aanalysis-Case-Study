@@ -74,6 +74,7 @@ Contains detailed information about products included in each order.
 
 Fields include:
 
+- Order Item ID
 - Order ID
 - Product ID
 - Quantity
@@ -86,6 +87,7 @@ This table connects products with individual orders.
 
 Contains payment transaction information including:
 
+- Payment ID
 - Order ID
 - Payment Method
 - Payment Status (Success / Failed)
