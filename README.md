@@ -16,13 +16,13 @@ The final outcome is an interactive business dashboard that highlights key perfo
 
 The main objectives of this project are:
 
-• Clean and validate raw business data
-• Build a structured analytical dataset
-• Perform exploratory data analysis to identify patterns
-• Use SQL to answer key business questions
-• Create business KPIs used by decision makers
-• Develop an interactive dashboard for performance monitoring
-• Provide clear business recommendations based on data insights
+- Clean and validate raw business data
+- Build a structured analytical dataset
+- Perform exploratory data analysis to identify patterns
+- Use SQL to answer key business questions
+- Create business KPIs used by decision makers
+- Develop an interactive dashboard for performance monitoring
+- Provide clear business recommendations based on data insights
 
 ---
 
@@ -34,10 +34,10 @@ The dataset simulates a typical e-commerce transactional system and consists of 
 
 Contains customer information including:
 
-• Customer ID
-• Country
-• Customer Segment
-• Signup Date
+- Customer ID
+- Country
+- Customer Segment
+- Signup Date
 
 This table helps analyze customer behavior and segmentation.
 
@@ -47,9 +47,9 @@ This table helps analyze customer behavior and segmentation.
 
 Contains product catalog information including:
 
-• Product ID
-• Product Category
-• Product Price
+- Product ID
+- Product Category
+- Product Price
 
 This table is used to analyze product performance and revenue contribution by category.
 
@@ -59,10 +59,10 @@ This table is used to analyze product performance and revenue contribution by ca
 
 Contains order-level information including:
 
-• Order ID
-• Customer ID
-• Order Date
-• Order Status (Delivered, Returned, Cancelled)
+- Order ID
+- Customer ID
+- Order Date
+- Order Status (Delivered, Returned, Cancelled)
 
 This table allows analysis of order lifecycle and operational performance.
 
@@ -74,9 +74,9 @@ Contains detailed information about products included in each order.
 
 Fields include:
 
-• Order ID
-• Product ID
-• Quantity
+- Order ID
+- Product ID
+- Quantity
 
 This table connects products with individual orders.
 
@@ -86,9 +86,9 @@ This table connects products with individual orders.
 
 Contains payment transaction information including:
 
-• Order ID
-• Payment Method
-• Payment Status (Success / Failed)
+- Order ID
+- Payment Method
+- Payment Status (Success / Failed)
 
 This table allows analysis of payment reliability and conversion rates.
 
@@ -100,11 +100,11 @@ The dataset intentionally includes several real-world data issues to simulate pr
 
 Examples include:
 
-• Missing values in customer country
-• Duplicate records in orders
-• Returns and cancelled orders
-• Failed payments
-• Data type inconsistencies
+- Missing values in customer country
+- Duplicate records in orders
+- Returns and cancelled orders
+- Failed payments
+- Data type inconsistencies
 
 These issues were addressed during the data cleaning stage.
 
@@ -116,12 +116,12 @@ Data cleaning was performed using Python and Pandas.
 
 The following steps were completed:
 
-• Handling missing values in the `country` column
-• Removing duplicate orders
-• Converting date columns to proper datetime format
-• Validating relationships between tables
-• Checking for invalid product references
-• Ensuring consistent data types across datasets
+- Handling missing values in the `country` column
+- Removing duplicate orders
+- Converting date columns to proper datetime format
+- Validating relationships between tables
+- Checking for invalid product references
+- Ensuring consistent data types across datasets
 
 After cleaning, all datasets were saved as clean CSV files for further analysis.
 
@@ -140,8 +140,8 @@ Orders → Payments
 
 Additional calculated fields were added:
 
-• **Revenue** = Quantity × Product Price
-• **Valid Order Flag** = Delivered orders with successful payments
+- **Revenue** = Quantity × Product Price
+- **Valid Order Flag** = Delivered orders with successful payments
 
 The resulting dataset serves as the primary analytical table used throughout the project.
 
@@ -153,12 +153,12 @@ Exploratory Data Analysis was performed using Python to understand trends and pa
 
 Key analyses include:
 
-• Revenue trends over time
-• Revenue by country
-• Revenue by customer segment
-• Product category performance
-• Order status distribution (Delivered / Returned / Cancelled)
-• Payment success rate
+- Revenue trends over time
+- Revenue by country
+- Revenue by customer segment
+- Product category performance
+- Order status distribution (Delivered / Returned / Cancelled)
+- Payment success rate
 
 Visualizations were created to highlight important business insights and potential operational issues.
 
@@ -172,11 +172,11 @@ The final analytical dataset was loaded into a SQLite database and queried using
 
 Examples of analytical queries include:
 
-• Top 10 customers by total revenue
-• Revenue by product category
-• Monthly revenue growth
-• Cancellation rate by country
-• Payment success rate by payment method
+- Top 10 customers by total revenue
+- Revenue by product category
+- Monthly revenue growth
+- Cancellation rate by country
+- Payment success rate by payment method
 
 This step demonstrates the ability to use SQL for structured business analysis.
 
@@ -240,13 +240,13 @@ The dashboard provides a high-level overview of company performance and allows u
 
 Main dashboard components include:
 
-• KPI summary cards
-• Revenue trend analysis
-• Product category performance
-• Customer segmentation insights
-• Country level performance
-• Returns and cancellations analysis
-• Payment method reliability
+- KPI summary cards
+- Revenue trend analysis
+- Product category performance
+- Customer segmentation insights
+- Country level performance
+- Returns and cancellations analysis
+- Payment method reliability
 
 ---
 
@@ -254,10 +254,10 @@ Main dashboard components include:
 
 The dashboard allows users to filter the data by:
 
-• Date
-• Country
-• Customer Segment
-• Product Category
+- Date
+- Country
+- Customer Segment
+- Product Category
 
 These filters allow flexible analysis of business performance across different dimensions.
 
@@ -314,17 +314,17 @@ Power BI
 
 ```
 Data/
-Cleaned datasets and final analytical dataset
+all_data.csv - Raw simulated datasets plus cleaned datasets and final analytical dataset
 
 Notebooks/
-01_data_cleaning.ipynb
-02_data_modeling.ipynb
-03_eda.ipynb
-04_kpi_engineering.ipynb
-05_sql_analysis.ipynb
+01_Data_Cleaning.ipynb
+02_Data_Modeling.ipynb
+03_EDA_Analysis.ipynb
+04_KPI_Engineering.ipynb
 
 SQL/
-SQL queries used for business analysis
+05_SQL_Analysis.ipynb
+E_Commmerce.db - SQLite database file containing the analytical dataset
 
 PowerBI/
 Interactive dashboard file
@@ -339,12 +339,12 @@ Script used to generate the simulated dataset
 
 This project demonstrates the ability to perform an end-to-end data analytics workflow including:
 
-• Data cleaning and preparation
-• Data modeling and relational analysis
-• Exploratory data analysis
-• SQL based business analysis
-• KPI engineering
-• Dashboard development
-• Business insight generation
+- Data cleaning and preparation
+- Data modeling and relational analysis
+- Exploratory data analysis
+- SQL based business analysis
+- KPI engineering
+- Dashboard development
+- Business insight generation
 
 The project highlights practical analytical skills required for real-world data analyst roles.
