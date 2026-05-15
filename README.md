@@ -337,6 +337,32 @@ Script used to generate the simulated dataset
 
 ---
 
+# Dashboard Preview
+
+## Executive Overview
+
+
+
+![Executive Overview](Assets/executive_overview.jpg)
+
+---
+
+## Operational Analysis
+
+
+
+![Operational Analysis](Assets/operational_analysis.jpg)
+
+---
+
+## Insights & Recommendations
+
+
+
+![Insights & Recommendations](Assets/insights_recommendations.jpg)
+
+---
+
 # Key Outcome
 
 This project demonstrates the ability to perform an end-to-end data analytics workflow including:
