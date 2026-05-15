@@ -314,26 +314,58 @@ Power BI
 
 # Project Structure
 
-```
-Data/
-all_data.csv - Raw simulated datasets plus cleaned datasets and final analytical dataset
 
-Notebooks/
-01_Data_Cleaning.ipynb
-02_Data_Modeling.ipynb
-03_EDA_Analysis.ipynb
-04_KPI_Engineering.ipynb
+## Project Structure
 
-SQL/
-05_SQL_Analysis.ipynb
-E_Commmerce.db - SQLite database file containing the analytical dataset
+```text
+ECOMMERCE-DATA-AANALYSIS-CASE-STUDY/
+│
+│
+├── Assets/
+│   ├── executive_overview.jpg
+│   │
+│   ├── insights_recommendations.jpg
+│   │
+│   └── operational_analysis.jpg
+│       
+│
+├── Data/
+│   ├── customers.csv
+│   │
+│   ├── customers_clean.csv
+│   │
+│   ├── orders.csv
+│   │
+│   ├── orders_clean.csv
+│   │
+│   ├── order_items.csv
+│   │
+│   ├── payments.csv
+│   │
+│   ├── products.csv
+│   │
+│   └── Final_Dataset.csv
+│       
+│
+├── Notebooks/
+│   ├── 01_Data_Cleaning.ipynb 
+│   │
+│   ├── 02_Data_Modeling.ipynb
+│   │
+│   ├── 03_EDA_Analysis.ipynb
+│   │
+│   └── 04_KPI_Engineering.ipynb
+│
+├── Power-BI-Dashboard/
+│   └── E-Commerce Dashboard.pbix
+│
+├── SQL/
+│   ├── 05_SQL_Analysis.ipynb
+│   │
+│   └── E-Commerce.db
+│
+└── Data_Script.py
 
-PowerBI/
-Interactive dashboard file
-
-Data_Script.py
-Script used to generate the simulated dataset
-```
 
 ---
 
